@@ -8,8 +8,8 @@
 ## 🎯 About Me
 
 - 💡 I am a Learning Technologist pivoting into dev. Passionate about clean code, creative problem-solving & building sleek, user-focused web solutions.
-- 🧐 I'm currently learning **Tailwind CSS** before diving into Javascript.
-- 🎓 Soon, I'll be exploring **JavaScript and React**!
+- 🧐 I'm currently learning **Javascript** before diving into React.
+- 🎓 Soon, I'll be exploring **React**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
 
@@ -43,28 +43,22 @@
 
 Here are some of my milestone projects (to be updated as I progress!):
 
-### **1️⃣ Interactive music player**
+### **1️⃣ Kan ban task app**
 
-🔹 **Description:** A music player built to showcase music.   
-🔹 **Technologies:** Artciulaate Storyline 360.
+🔹 **Description:** Kanban task management application deployed on Netlify, designed with full functionality, responsiveness, and persistence through local storage. It integrates dynamic features such as task creation, editing, and deletion, along with sidebar interactions and a theme toggle for dark/light mode.
+🔹 **Technologies:** HTML, CSS, Javascript, Github & Netlify
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Endless runner game**
+### **2️⃣ An online resume**
 
-🔹 **Description:** An endless running game using Articulate Storyline.   
-🔹 **Technologies:** Artciulaate Storyline 360.
-🔹 **Status:** ✅ Completed
-
-### **3️⃣ Codespace Cat Instagram profile**
-
-🔹 **Description:** A simple Instagram profile replica.  
+🔹 **Description:**  a personal website that showcases skills, experience, and code style.
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ✅ Completed
 
-### **4️⃣ Responsive footer**
+### **3️⃣ Endless runner game**
 
-🔹 **Description:** A responsive footer built with CSS and Tailwind CSS.  
-🔹 **Technologies:** HTML, CSS, Tailwind CSS
+🔹 **Description:** An endless running game using Articulate Storyline.   
+🔹 **Technologies:** Artciulaate Storyline 360.
 🔹 **Status:** ✅ Completed
 
 ---
@@ -72,7 +66,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📚 Learning Goals
 
 - 🚀 Get comfortable using CSS and Tailwind
-- 🎨 Learn HTML, CSS, and JavaScript
+- 🎨 Learn Javascript & React
 - 💡 Build real-world projects and collaborate with others
 
 ---
@@ -82,11 +76,5 @@ Here are some of my milestone projects (to be updated as I progress!):
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TashreeqAdams)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashreeq-adams-8709571b3/)  
 📧 Email: [tashreeqadams8@gmail.com](mailto:tashreeqadams8@gmail.com)
-
----
-
-## 🚀 Fun Fact
-
-💡 I love learning new things and can't wait to build my first website!
 
 ---
