@@ -8,8 +8,7 @@
 ## 🎯 About Me
 
 - 💡 I am a Learning Technologist pivoting into dev. Passionate about clean code, creative problem-solving & building sleek, user-focused web solutions.
-- 🧐 I'm currently learning **Javascript** before diving into React.
-- 🎓 Soon, I'll be exploring **React**!
+- 🧐 I'm currently learning **React**.
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
 
@@ -17,15 +16,16 @@
 
 ## 🛠️ Tech Stack
 
-**Currently learning:**
+**Already learned:**
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
 
 - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 
-**Future Technologies:**
-
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+
+**currently Learning:**
+
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
