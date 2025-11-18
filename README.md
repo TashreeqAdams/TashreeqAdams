@@ -24,7 +24,7 @@
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 
-**currently Learning:**
+**Currently Learning:**
 
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
